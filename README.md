@@ -1,9 +1,9 @@
 # Hello..
-### Im Ben
+### Im Ben, I just made this account so not much here yet..
 ## 🌟 About Me
 
 - Guitarist in a band — I play at local festivals!
-- Cisco Certified in Cybersecurity
+- Cisco Certified Ethical hacker, and in cybersec
 - Love music and audio.. alot
 
 ## 🛠️ My current projects:
