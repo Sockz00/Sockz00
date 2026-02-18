@@ -1,16 +1,8 @@
 # Hello..
-### Im sockz, I just made this account so not much here yet..
-## 🌟 About Me
+### Im sockz,
 
-- Guitarist in a band — I play at local festivals!
 - Cisco Certified Ethical hacker, and in cybersec
 - Love music and audio.. alot
-
-## 🛠️ My current projects:
- 1. ESP32 based BLE jammer
- 2. TV-b-Gone module for Flipper Zero
- 3. Custom speaker setup
- 4. ESP32 Wi-Fi Maruader
 
 ## 🎓Currently learning: 
 <div align="center">
@@ -33,8 +25,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sockz00&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sockz00" /></p>
 
 ## 📫 Contact Me
-
-- Email: ben.wroth08@gmail.com
 - Carrier Pigeon: https://pigeongram.com/
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
