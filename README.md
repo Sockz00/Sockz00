@@ -1,5 +1,5 @@
 # Hello..
-### Im Ben, I just made this account so not much here yet..
+### Im sockz, I just made this account so not much here yet..
 ## 🌟 About Me
 
 - Guitarist in a band — I play at local festivals!
